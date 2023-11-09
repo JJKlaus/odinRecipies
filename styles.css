@@ -1,0 +1,15 @@
+*{
+    margin: 10px;
+    text-align: center;
+    align-content: center;
+}
+
+.title{
+    text-align: center;
+    background-color: burlywood;
+    width: 20%;
+    padding: 3%;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+}
